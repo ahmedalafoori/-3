@@ -1,0 +1,18 @@
+F:\C# الا\اله حاسبة3\اله حاسبة3\bin\Debug\اله حاسبة3.exe
+F:\C# الا\اله حاسبة3\اله حاسبة3\bin\Debug\اله حاسبة3.pdb
+F:\C# الا\اله حاسبة3\اله حاسبة3\obj\Debug\اله حاسبة3.csproj.AssemblyReference.cache
+F:\C# الا\اله حاسبة3\اله حاسبة3\obj\Debug\اله_حاسبة3.Form1.resources
+F:\C# الا\اله حاسبة3\اله حاسبة3\obj\Debug\اله_حاسبة3.Properties.Resources.resources
+F:\C# الا\اله حاسبة3\اله حاسبة3\obj\Debug\اله حاسبة3.csproj.GenerateResource.cache
+F:\C# الا\اله حاسبة3\اله حاسبة3\obj\Debug\اله حاسبة3.csproj.CoreCompileInputs.cache
+F:\C# الا\اله حاسبة3\اله حاسبة3\obj\Debug\اله حاسبة3.exe
+F:\C# الا\اله حاسبة3\اله حاسبة3\obj\Debug\اله حاسبة3.pdb
+D:\my project c#\اله حاسبة3\اله حاسبة3\bin\Debug\اله حاسبة3.exe
+D:\my project c#\اله حاسبة3\اله حاسبة3\bin\Debug\اله حاسبة3.pdb
+D:\my project c#\اله حاسبة3\اله حاسبة3\obj\Debug\اله حاسبة3.csprojAssemblyReference.cache
+D:\my project c#\اله حاسبة3\اله حاسبة3\obj\Debug\اله_حاسبة3.Properties.Resources.resources
+D:\my project c#\اله حاسبة3\اله حاسبة3\obj\Debug\اله حاسبة3.csproj.GenerateResource.cache
+D:\my project c#\اله حاسبة3\اله حاسبة3\obj\Debug\اله حاسبة3.csproj.CoreCompileInputs.cache
+D:\my project c#\اله حاسبة3\اله حاسبة3\obj\Debug\اله حاسبة3.exe
+D:\my project c#\اله حاسبة3\اله حاسبة3\obj\Debug\اله حاسبة3.pdb
+D:\my project c#\اله حاسبة3\اله حاسبة3\obj\Debug\اله_حاسبة3.Form1.resources
